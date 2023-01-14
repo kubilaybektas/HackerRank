@@ -48,6 +48,10 @@ public class JavaIfElse {
         scan.close();
         if(enterednumber %2 == 1){
             System.out.println("Weird");
+        }else{
+            if(enterednumber >= 2 && enterednumber <= 5)System.out.println("Not Weird");
+            else if(enterednumber >= 6 && enterednumber <= 20)System.out.println("Weird");
+            else System.out.println("Not Weird");
         }
     }
 }
