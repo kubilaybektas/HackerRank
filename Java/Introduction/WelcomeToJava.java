@@ -20,8 +20,6 @@ Sample Output
 Hello, World.
 Hello, Java.
  */
-package Java.Introduction;
-/* Just ignore package to test online */
 public class WelcomeToJava{
     public static void main(String[] args){
         System.out.println("Hello, World.");

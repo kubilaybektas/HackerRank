@@ -37,8 +37,6 @@ Sample Output
 100
 125
  */
-package Java.Introduction;
-/* Just ignore package to test online */
 import java.util.Scanner;
 public class JavaStdinandStdoutI {
     
